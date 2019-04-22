@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /images/photo.jpg
-actionText: 快速上手 →
+actionText: 快速上车 →
 actionLink: guide.html
 features:
 - title: 简洁至上
@@ -13,22 +13,6 @@ features:
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
-:tada: :100:
-
 ::: tip 提示
-this is a tip
+Android面试题目积累，题目来自互联网。
 :::
-
-::: warning 注意
-this is a tip
-:::
-
-::: danger 警告
-this is a tip
-:::
-
-``` js
-<script>
-	console.log('Hello world')
-</script>
-```
