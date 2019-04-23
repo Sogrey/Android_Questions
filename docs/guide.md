@@ -115,7 +115,14 @@ System.out.println("n="+n+",m="+m);
 
 ### 打印九九乘法表 [#41](https://github.com/Sogrey/Android_QA/issues/41)
 
+### String s = new String("xyz");创建了几个String Object [#48](https://github.com/Sogrey/Android_QA/issues/48)
 
+> 两个，一个字符对象，一个字符对象引用对象
+
+### String与StringBuffer的区别。 [#49](https://github.com/Sogrey/Android_QA/issues/49)
+
+> String的长度是不可变的，StringBuffer的长度是可变的。如果你对字符串中的内容经常进行操作，
+> 特别是内容要修改时，那么使用StringBuffer，如果最后需要String，那么使用StringBuffer的toString()方法
 
 ## 核心
 
@@ -319,6 +326,51 @@ System.out.println("n="+n+",m="+m);
 ### **Android本身的api并未声明会抛出异常，则其在运行时有无可能抛出runtime异常，你遇到过吗？诺有的话会导致什么问题？如何解决？** [#15](https://github.com/Sogrey/Android_QA/issues/15)
 
 > 会，比如nullpointerException。我遇到过，比如textview.setText()时，textview没有初始化。会导致程序无法正常运行出现forceclose。打开控制台查看logcat信息找出异常信息并修改程序。
+
+### error和exception有什么区别 [#42](https://github.com/Sogrey/Android_QA/issues/42)
+
+> - error 表示恢复不是不可能但很困难的情况下的一种严重问题。比如说内存溢出。不可能指望程序能处理这样的情况
+>
+> - exception 表示一种设计或实现问题。也就是说，它表示如果程序运行正常，从不会发生的情况
+
+### 给我一个你最常见到的runtime exception [#43](https://github.com/Sogrey/Android_QA/issues/43)
+
+> 常见的运行时异常有如下这些ArithmeticException, ArrayStoreException, 
+> BufferOverflowException, BufferUnderflowException, CannotRedoException, 
+> CannotUndoException, ClassCastException, CMMException, ConcurrentModificationException,
+> DOMException, EmptyStackException, IllegalArgumentException, IllegalMonitorStateException, 
+> IllegalPathStateException, IllegalStateException, ImagingOpException, 
+> IndexOutOfBoundsException, MissingResourceException, NegativeArraySizeException, 
+> NoSuchElementException, NullPointerException, ProfileDataException, ProviderException, 
+> RasterFormatException, SecurityException, SystemException, UndeclaredThrowableException, 
+> UnmodifiableSetException, UnsupportedOperationException
+
+### try {}里有一个return语句，那么紧跟在这个try后的finally {}里的code会不会被执行，什么时候被执行，在return前还是后 [#44](https://github.com/Sogrey/Android_QA/issues/44)
+
+> 会执行，在return前执行
+
+### 运行时异常与一般异常有何异同 [#45](https://github.com/Sogrey/Android_QA/issues/45)
+
+> 异常表示程序运行过程中可能出现的非正常状态，运行时异常表示虚拟机的通常操作
+> 中可能遇到的异常，是一种常见运行错误。java编译器要求方法必须声明抛出可能发生的
+> 非运行时异常，但是并不要求必须声明抛出未被捕获的运行时异常。
+
+### Java中的异常处理机制的简单原理和应用 [#46](https://github.com/Sogrey/Android_QA/issues/46)
+
+> 当JAVA程序违反了JAVA的语义规则时，JAVA虚拟机就会将发生的错误表示为一个异常。
+> 违反语义规则包括2种情况。一种是JAVA类库内置的语义检查。例如数组下标越界,会引发
+> IndexOutOfBoundsException;访问null的对象时会引发NullPointerException。另一种情况
+> 就是JAVA允许程序员扩展这种语义检查，程序员可以创建自己的异常，并自由选择在何时
+> 用throw关键字引发异常。所有的异常都是java.lang.Thowable的子类。
+
+### JAVA语言如何进行异常处理，关键字：throws,throw,try,catch,finally分别代表什么意义？在try块中可以抛出异常吗？ [#47](https://github.com/Sogrey/Android_QA/issues/47)
+
+> Java通过面向对象的方法进行异常处理，把各种不同的异常进行分类，并提供了良好的接口。在Java中，每个异常都是一个对象，它是Throwable类或其它子类的实例。当一个方法出现异常后便抛出一个异常对象，该对象中包含有异常信息，调用这个对象的方法可以捕获到这个异常并进行处理。Java的异常处理是通过5个关键词来实现的：try、catch、throw、throws和finally。一般情况下是用try来执行一段程序，如果出现异常，系统会抛出（throws）一个异常，这时候你可以通过它的类型来捕捉（catch）它，或最后（finally）由缺省处理器来处理。
+> 用try来指定一块预防所有"异常"的程序。紧跟在try程序后面，应包含一个catch子句来指定你想要捕捉的"异常"的类型。
+> throw语句用来明确地抛出一个"异常"。
+> throws用来标明一个成员函数可能抛出的各种"异常"。
+> Finally为确保一段代码不管发生什么"异常"都被执行一段代码。
+> 可以在一个成员函数调用的外面写一个try语句，在这个成员函数内部写另一个try语句保护其他代码。每当遇到一个try语句，"异常"的框架就放到堆栈上面，直到所有的try语句都完成。如果下一级的try语句没有对某种"异常"进行处理，堆栈就会展开，直到遇到有处理这种"异常"的try语句。
 
 ## Kotlin相关
 
