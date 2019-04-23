@@ -14,6 +14,109 @@ Android面试题目积累，题目来自互联网。
 
 :::
 
+## Java基础
+
+### 一个".java"源文件中是否可以包括多个类（不是内部类）？有什么限制？[#21](https://github.com/Sogrey/Android_QA/issues/21)
+
+> 可以。必须只有一个类名与文件名相同。
+
+### GC是什么? 为什么要有GC [#22](https://github.com/Sogrey/Android_QA/issues/22)
+
+> GC是垃圾收集的意思（Gabage Collection）,内存处理是编程人员容易出现问题的地方，
+> 忘记或者错误的内存回收会导致程序或系统的不稳定甚至崩溃，Java提供的GC功能可以自动
+> 监测对象是否超过作用域从而达到自动回收内存的目的，Java语言没有提供释放已分配内存
+> 的显示操作方法。
+
+### 垃圾回收器的基本原理是什么？垃圾回收器可以马上回收内存吗？有什么办法主动通知虚拟机进行垃圾回收 [#23](https://github.com/Sogrey/Android_QA/issues/23)
+
+> 对于GC来说，当程序员创建对象时，GC就开始监控这个对象的地址、大小以及使用情况。通常，GC采用
+> 有向图的方式记录和管理堆(heap)中的所有对象。通过这种方式确定哪些对象是"可达的"，哪些对象是"不可达的"。
+> 当GC确定一些对象为"不可达"时，GC就有责任回收这些内存空间。可以。程序员可以手动执行System.gc()，
+> 通知GC运行，但是Java语言规范并不保证GC一定会执行。
+
+### 写出输出的结果.(考查运算符的优先级) [#24](https://github.com/Sogrey/Android_QA/issues/24)
+
+``` java
+class Demo{
+	public static void main(String[] args){
+		int x=0,y=1;
+		if(++x==y-- & x++==1||--y==0)
+			System.out.println("x="+x+",y="+y);//x = 2,y = 0;
+		else
+			System.out.println("y="+y+",x="+x);
+	}
+}
+```
+
+### 插入代码，实现n和m值的交换 [#25](https://github.com/Sogrey/Android_QA/issues/25)
+
+``` java
+int n = 5,m = 13;
+//TODO 插入代码，实现n和m值的交换
+System.out.println("n="+n+",m="+m);
+```
+
+### 如何手动实现整型数值60的二进制到十六进制的转换 [#26](https://github.com/Sogrey/Android_QA/issues/26)
+
+### short s1 = 1; s1 = s1 + 1;有什么错? short s1 = 1; s1 += 1;有什么错 [#27](https://github.com/Sogrey/Android_QA/issues/27)
+
+> short s1 = 1; s1 = s1 + 1; （s1+1运算结果是int型，需要强制转换类型）
+> short s1 = 1; s1 += 1;（可以正确编译）
+
+### Java有没有goto [#28](https://github.com/Sogrey/Android_QA/issues/28)
+
+> java中的保留字，现在没有在java中使用
+
+### 用最有效率的方法算出2乘以8等於几 [#29](https://github.com/Sogrey/Android_QA/issues/29)
+
+> 2 << 3
+
+### char型变量中能不能存贮一个中文汉字?为什么? [#30](https://github.com/Sogrey/Android_QA/issues/30)
+
+> 是能够定义成为一个中文的，因为java中以unicode编码，一个char占16个字节，
+> 所以放一个中文是没问题的
+
+### float型float f=3.4是否正确? [#31](https://github.com/Sogrey/Android_QA/issues/31)
+
+> 不正确。精度不准确,应该用强制类型转换，如下所示：float f=(float)3.4;
+
+### String是最基本的数据类型吗 [#32](https://github.com/Sogrey/Android_QA/issues/32)
+
+> 基本数据类型包括byte、int、char、long、float、double、boolean和short。
+> java.lang.String类是final类型的，因此不可以继承这个类、不能修改这个类。为了提高效率节省空间，我们应该用StringBuffer类
+
+### 数组a[n]，用java代码将数组元素顺序颠倒 [#33](https://github.com/Sogrey/Android_QA/issues/33)
+
+### 从键盘分别输入年、月、日，判断这一天是当年的第几天。[#34](https://github.com/Sogrey/Android_QA/issues/34)
+
+### 输入两个正整数m和n，求其最大公约数和最小公倍数 [#35](https://github.com/Sogrey/Android_QA/issues/35)
+
+### 3000米长的绳子，每天减一半。问多少天这个绳子会小于5米？不考虑小数。 [#36](https://github.com/Sogrey/Android_QA/issues/36)
+
+### 编写程序，判断给定的某个年份是否是闰年。 [#37](https://github.com/Sogrey/Android_QA/issues/37)
+
+### 利用程序输出如下图形: [#38](https://github.com/Sogrey/Android_QA/issues/38)
+
+```
+   *
+   * * *
+   * * * * *
+   * * * * * * *
+   * * * * *
+   * * *
+   *
+```
+
+### 一个数如果恰好等于它的因子之和，这个数就称为"完数"。（因子：除去这个数本身正的约数）[#39](https://github.com/Sogrey/Android_QA/issues/39)
+例如6=1＋2＋3.编程 找出1000以内的所有完数
+
+### 输出所有的水仙花数，所谓水仙花数是指一个3位数，其各个位上数字立方和等于其本身。[#40](https://github.com/Sogrey/Android_QA/issues/40)
+例如： 153 = 1*1*1 + 3*3*3 + 5*5*5 
+
+### 打印九九乘法表 [#41](https://github.com/Sogrey/Android_QA/issues/41)
+
+
+
 ## 核心
 
 ### Android的四大组件是哪些，它们的作用？[#1](https://github.com/Sogrey/Android_QA/issues/1)
@@ -216,3 +319,6 @@ Android面试题目积累，题目来自互联网。
 ### **Android本身的api并未声明会抛出异常，则其在运行时有无可能抛出runtime异常，你遇到过吗？诺有的话会导致什么问题？如何解决？** [#15](https://github.com/Sogrey/Android_QA/issues/15)
 
 > 会，比如nullpointerException。我遇到过，比如textview.setText()时，textview没有初始化。会导致程序无法正常运行出现forceclose。打开控制台查看logcat信息找出异常信息并修改程序。
+
+## Kotlin相关
+
