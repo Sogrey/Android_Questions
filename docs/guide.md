@@ -792,3 +792,13 @@ D.int show(int a,float c){return a;}
 
 ## :file_folder: Kotlin相关
 
+---
+
+## :file_folder: 其他面经库
+
+
+<div class="github-widget" data-repo="Mr-YangCheng/ForAndroidInterview"></div>
+<div class="github-widget" data-repo="Shouheng88/Android-notes"></div>
+<div class="github-widget" data-repo="whatshappen/Android_Question"></div>
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+
