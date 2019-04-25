@@ -392,7 +392,7 @@ D.int show(int a,float c){return a;}
 > - wait()使线程休眠一段时间，若设置参数，时间到时，线程就自动进入可执行状态。若没有，则需要notify()方法去调用。注意：wait()方法和notify()方法都时针对this对象的，调用wait()方法后，会释放加在对象上的“锁”。
 > - yield()使线程放弃执行的权利，进入可执行状态，也就意味着线程在yield()方法后，有可能又执行。使用yield()方法，线程并不释放自己锁持有的“锁”。
 
-## :file_folder: 核心
+## :file_folder: Android
 
 ###  :question: Android的四大组件是哪些，它们的作用？[#1](https://github.com/Sogrey/Android_QA/issues/1)
 
@@ -615,7 +615,11 @@ D.int show(int a,float c){return a;}
 
 ###  :question: 简单描述下Android 数字签名。[#98](https://github.com/Sogrey/Android_QA/issues/98)
 
+### :question: 说说mvc模式的原理，它在android中的运用,android的官方建议应用程序的开发采用mvc模式。何谓mvc？[#117](https://github.com/Sogrey/Android_QA/issues/117)
 
+### ❓ AIDL的全称是什么？如何工作？能处理哪些类型的数据？[#118](https://github.com/Sogrey/Android_QA/issues/118)
+
+### ❓ 系统上安装了多种浏览器，能否指定某浏览器访问指定页面？[#119](https://github.com/Sogrey/Android_QA/issues/119)
 
 ###  :question: 谈谈Android的优点和不足之处。[#97](https://github.com/Sogrey/Android_QA/issues/97)
 
@@ -789,6 +793,8 @@ D.int show(int a,float c){return a;}
 ###  :question: 排序都有哪几种方法？请列举。用JAVA实现一个快速排序。 [#107](https://github.com/Sogrey/Android_QA/issues/107)
 
 ###  :question: 金额转换，阿拉伯数字的金额转换成中国传统的形式如：（￥1011）－>（一千零一拾一元整）输出。[#108](https://github.com/Sogrey/Android_QA/issues/108)
+
+### :question: 有一个一维整型数组int[] data保存的是一张宽为width,高为height的图片像素值信息。请写一个算法，将该图片所有的白色不透明(0xffffffff)像素点的透明度调整为50%。[#120](https://github.com/Sogrey/Android_QA/issues/120)
 
 ## :file_folder: Kotlin相关
 
