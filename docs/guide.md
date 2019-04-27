@@ -129,6 +129,8 @@ System.out.println("n="+n+",m="+m);
 > Collection是集合类的上级接口，继承与他的接口主要有Set 和List.
 > Collections是针对集合类的一个帮助类，他提供一系列静态方法实现对各种集合的搜索、排序、线程安全化等操作
 
+### ❓ Integer与int的区别 [#122](<https://github.com/Sogrey/Android_QA/issues/122>)
+
 ###  :question: Set里的元素是不能重复的，那么用什么方法来区分重复与否呢? 是用==还是equals()? 它们有何区别 [#51](https://github.com/Sogrey/Android_QA/issues/51)
 
 > Set里的元素是不能重复的，那么用iterator()方法来区分重复与否。equals()是判读两个Set是否相等
@@ -392,6 +394,8 @@ D.int show(int a,float c){return a;}
 > - wait()使线程休眠一段时间，若设置参数，时间到时，线程就自动进入可执行状态。若没有，则需要notify()方法去调用。注意：wait()方法和notify()方法都时针对this对象的，调用wait()方法后，会释放加在对象上的“锁”。
 > - yield()使线程放弃执行的权利，进入可执行状态，也就意味着线程在yield()方法后，有可能又执行。使用yield()方法，线程并不释放自己锁持有的“锁”。
 
+### ❓ 在JAVA中如何跳出当前的多重嵌套循环？[#121](<https://github.com/Sogrey/Android_QA/issues/121>)
+
 ## :file_folder: Android
 
 ###  :question: Android的四大组件是哪些，它们的作用？[#1](https://github.com/Sogrey/Android_QA/issues/1)
@@ -573,6 +577,8 @@ D.int show(int a,float c){return a;}
 
 > 屏蔽数据存储的细节,对用户透明,用户只需要关心操作数据的uri就可以了不同app之间共享,操作数据Sql也有增删改查的方法.  但是contentprovider 还可以去增删改查本地文件. xml文件的读取,更改,网络数据读取更改 
 
+### ❓ invalidate和postInvalidate的区别及使用 [#123](<https://github.com/Sogrey/Android_QA/issues/123>)
+
 ###  :question: **android线程的好处** [#110](https://github.com/Sogrey/Android_QA/issues/110)
 
 > **1、Android有两种方式处理线程：**
@@ -620,6 +626,8 @@ D.int show(int a,float c){return a;}
 ### ❓ AIDL的全称是什么？如何工作？能处理哪些类型的数据？[#118](https://github.com/Sogrey/Android_QA/issues/118)
 
 ### ❓ 系统上安装了多种浏览器，能否指定某浏览器访问指定页面？[#119](https://github.com/Sogrey/Android_QA/issues/119)
+
+### ❓ 低版本SDK如何实现高版本api？[#124](https://github.com/Sogrey/Android_QA/issues/124)
 
 ###  :question: 谈谈Android的优点和不足之处。[#97](https://github.com/Sogrey/Android_QA/issues/97)
 
@@ -690,6 +698,8 @@ D.int show(int a,float c){return a;}
 > 五、过分依赖开发商缺少标准配置
 >
 > 在使用PC端的Windows Xp系统的时候，都会内置微软Windows Media Player这样一个浏览器程序，用户可以选择更多样的播放器，如Realplay或暴风影音等。但入手开始使用默认的程序同样可以应付多样的需要。在 Android平台中，由于其开放性，软件更多依赖第三方厂商，比如Android系统的SDK中就没有内置音乐 播放器，全部依赖第三方开发，缺少了产品的统一性。
+
+
 
 
 
@@ -808,6 +818,13 @@ D.int show(int a,float c){return a;}
 <div class="github-widget" data-repo="Shouheng88/Android-notes"></div>
 **whatshappen/Android_Question**
 <div class="github-widget" data-repo="whatshappen/Android_Question"></div>
-
+**derekargueta/Android-Interview-Questions**
+<div class="github-widget" data-repo="derekargueta/Android-Interview-Questions"></div>
+**JackyAndroid/AndroidInterview-Q-A**
+<div class="github-widget" data-repo="JackyAndroid/AndroidInterview-Q-A"></div>
+**stormzhang/android-interview-questions-cn**
+<div class="github-widget" data-repo="stormzhang/android-interview-questions-cn"></div>
+**Advanced-Frontend/Daily-Interview-Question**
+<div class="github-widget" data-repo="Advanced-Frontend/Daily-Interview-Question"></div>
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
