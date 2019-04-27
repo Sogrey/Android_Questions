@@ -171,6 +171,8 @@ System.out.println("n="+n+",m="+m);
 > 二.同步性:Hashtable是线程安全的，也就是说是同步的，而HashMap是线程序不安全的，不是同步的
 > 三.值：只有HashMap可以让你将空值作为一个表的条目的key或value
 
+### :question: List、Map、Set三个接口，存取元素时，各有什么特点？[#126](<https://github.com/Sogrey/Android_QA/issues/126>)
+
 ###  :question: 哪个选项和show函数重载  [#56](https://github.com/Sogrey/Android_QA/issues/56)
 
 ``` java
@@ -381,6 +383,8 @@ D.int show(int a,float c){return a;}
 > 按流的流向的不同，分为输入流和输出流。
 > 按流的角色来分，可分为节点流和处理流。缓冲流、转换流、对象流和打印流等都属于处理流，使得输入/输出更简单，执行效率更高。
 
+### ❓ 字节流与字符流的区别 [#127](<https://github.com/Sogrey/Android_QA/issues/127>)
+
 ###  :question: 描述一下JVM加载class文件的原理机制? [#89](https://github.com/Sogrey/Android_QA/issues/89)
 
 > JVM中类的装载是由ClassLoader和它的子类来实现的,Java ClassLoader 
@@ -395,6 +399,12 @@ D.int show(int a,float c){return a;}
 > - yield()使线程放弃执行的权利，进入可执行状态，也就意味着线程在yield()方法后，有可能又执行。使用yield()方法，线程并不释放自己锁持有的“锁”。
 
 ### ❓ 在JAVA中如何跳出当前的多重嵌套循环？[#121](<https://github.com/Sogrey/Android_QA/issues/121>)
+
+### ❓ 静态变量和实例变量的区别？[#125](<https://github.com/Sogrey/Android_QA/issues/125>)
+
+### ❓ heap和stack有什么区别。[#128](<https://github.com/Sogrey/Android_QA/issues/128>)
+
+### ❓ 什么时候用assert。 [#129](<https://github.com/Sogrey/Android_QA/issues/129>)
 
 ## :file_folder: Android
 
@@ -805,6 +815,12 @@ D.int show(int a,float c){return a;}
 ###  :question: 金额转换，阿拉伯数字的金额转换成中国传统的形式如：（￥1011）－>（一千零一拾一元整）输出。[#108](https://github.com/Sogrey/Android_QA/issues/108)
 
 ### :question: 有一个一维整型数组int[] data保存的是一张宽为width,高为height的图片像素值信息。请写一个算法，将该图片所有的白色不透明(0xffffffff)像素点的透明度调整为50%。[#120](https://github.com/Sogrey/Android_QA/issues/120)
+
+### :question: ​有数组a[n]，用java代码将数组元素顺序颠倒 [#130](<https://github.com/Sogrey/Android_QA/issues/130>)
+
+
+
+
 
 ## :file_folder: Kotlin相关
 
