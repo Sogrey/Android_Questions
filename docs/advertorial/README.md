@@ -1,6 +1,25 @@
 # 技术软文
 
 ## 公众号
-### js
-### css
+
+
+
+[![img](https://weixin.sogou.com/new/pc/images/logo_140x34.png)](<https://weixin.sogou.com/>)
+
+
+| logo                                                         | 名称        | 微信号            | 简介                                                         | QRCode                                                       |
+| ------------------------------------------------------------ | ----------- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://sogrey.github.io/GithubPagePics/icons/1556424722090.png) | 谷歌开发者  | Google_Developers | Google 中国官方账号.汇集 Android; Flutter; Chrome OS; AI 等开发技术,以及 Google Play 平台出海相关信息. | ![img](https://img01.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556429785%26ver%3D1%26signature%3D8-dcdNv2VXBpoOZcLIEnUSzDqRIj3ddpxhewGlcQD-a4mtxRuaE*p2rm1ouTHpbecHVn8gGT5haQNcsL4rtm3wTQ2YtbeC*5qyEgM9Obl9U%3D&appid=200580) |
+| ![1556427859404](https://sogrey.github.io/GithubPagePics/icons/1556427859404.png) | codeKK      | codek2            | 专注于开源项目、职业成长、阿里及滴滴内推，由 Trinea 创建并维护。>>> 2019 年阿里、滴滴大量新的招聘名额开放，月 20k-60k，年 16 薪及以上，可关注我进行内推。 | ![img](https://img03.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556427606%26ver%3D1%26signature%3DCoZItIQny-BKruR0iTgLC0Ec6rsT6KIoRMUGIZ2lseqRUBSwFDBIzP6zYXrKRqi8*LYloHK5zoPhEYRdEiR7Ivxgg7amOQasN6zEM3QNkO4%3D&appid=200580) |
+| ![1556428120325](https://sogrey.github.io/GithubPagePics/icons/1556428120325.png) | 鸿洋        | hongyangAndroid   | 你好，欢迎关注鸿洋的公众号，每天为您推送高质量文章，让你每天都能涨知识。点击历史消息，查看所有已推送的文章，喜欢可以置顶本公众号。此外，本公众号支持投稿，如果你有原创的文章，希望通过本公众号发布，欢迎投稿。 | ![img](https://img03.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428144%26ver%3D1%26signature%3DuXeL2UtJeym5e5IZLJ*DK*cGCy*1nRrbr41FSYoALYLynAH22mYbYouTgOgccl-oUzT3sYydTud8ytSWKYWzIAxSQ8mjsrQ2N7JqDsjAjqk%3D&appid=200580) |
+| ![1556428199919](https://sogrey.github.io/GithubPagePics/icons/1556428199919.png) | 郭霖        | guolin_blog       | Android技术分享平台，每个工作日都有优质技术文章推送。你还可以向公众号投稿，将自己总结的技术心得分享给大家。 | ![img](https://img04.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428186%26ver%3D1%26signature%3DJcYG5-zMw8VTdsMVHjBmMfRahe3JvZEbGx2OxzFuKaqGy6a35JFxMr81KMekkfMNo-2bpqBLL8iHH*cvZCzSHcQU0y6e3zkfnH-lOeTg7EY%3D&appid=200580) |
+| ![1556428516530](https://sogrey.github.io/GithubPagePics/icons/1556428516530.png) | Kotlin      | KotlinX           | Kotlin & Geek                                                | ![img](https://img02.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428504%26ver%3D1%26signature%3DYXg3Ctya9RnU0GIjjQAMfq9-coCiRVNVVmXNFhGUyeVQIEH5VcLU9q2JXqIMv3qoy2nxIytAnhUKR9hM6gHZZKIxER*FsLqHnmZEcRgxjRc%3D&appid=200580) |
+| ![1556428580569](https://sogrey.github.io/GithubPagePics/icons/1556428580569.png) | OpenFlutter | OpenFlutter       | Love Flutter,love life.                                      | ![img](https://img01.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428562%26ver%3D1%26signature%3DMDL0cY3XdE9-Wg1P3DmOwzJaZMBunot587i4fEBa9eLoluTrh36fIh*uGeJw-7FeMiiL7KroSrd9oUxkZi*np4Hj7B4OiXJh39cnMhjFDV4%3D&appid=200580) |
+| ![1556428353142](https://sogrey.github.io/GithubPagePics/icons/1556428353142.png) | 菜鸟要飞    | rookieflyhigher   | 编程自学的路上怎能少了我们，菜鸟要飞为你打上最坚实的第一步。这里有资源，有路线，有技术，有段子，就差你一个！ | ![img](https://img03.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428337%26ver%3D1%26signature%3DJ-m4A4iKqqg8Uu11H0gWdsdCt32j60E8r8XkY*6B0GLdU138AULGKzfYOARNwlYCM-dONm0PZ2RdH4EHr1EaR8R54NgW4Ze5cI2MVxX4VuA%3D&appid=200580) |
+| ![1556428430216](https://sogrey.github.io/GithubPagePics/icons/1556428430216.png) | 速学Python  | suxuepy           | 一个专心做Python编程联盟的平台                               | ![img](https://img02.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428407%26ver%3D1%26signature%3DjL2goyCZuppUJLIYTLMMaAjPLquC-AW09VuoGR48s6IKIUH3h6proZr0Mfb22UG6ND29UfDMmqme7*kERPvDTYoNnXXAgdMIwrFXHAostJM%3D&appid=200580) |
+| ![1556428036716](https://sogrey.github.io/GithubPagePics/icons/1556428036716.png) | 六点半源码  | aifx0204          | 美好生活，乐在分享！我是六点半源码，每天一个黑科技，给生活加点料，你确定不关注一下吗？ | ![img](https://img03.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428048%26ver%3D1%26signature%3DAD3ORYCwxZV3SfkCfIJUNE8KckJp6AbNyKSe0jyaPaSO-YApEfsDAMjEKmT-LinQ4IYITx3EPFUmc0gV4feoup8ej4B4WpGR3Zfj0fMbKAI%3D&appid=200580) |
+| ![1556428299166](https://sogrey.github.io/GithubPagePics/icons/1556428299166.png) | 编程牛人    | bianchengniuren   | 写尽程序员新鲜事。在这里你可以学习提高，全力吐槽，一不小心还能找到对象哦~~ | ![img](https://img01.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556428262%26ver%3D1%26signature%3DVbJRvhKX*wr5ztnczYXemoc1uFWM0aQZrBbMqP*IjYnvyyLXTjffQDQOhuAXmrSHQTpn*fViqEFgXVFiPd5u0IRoE3K10vHwBthDeD4fEPg%3D&appid=200580) |
+
+
+
 
