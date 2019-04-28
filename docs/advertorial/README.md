@@ -1,13 +1,12 @@
-# 技术软文
+# :computer: 
 
-## 公众号
-
+## :file_folder: 公众号推荐
 
 
 [![img](https://weixin.sogou.com/new/pc/images/logo_140x34.png)](<https://weixin.sogou.com/>)
 
 
-| logo                                                         | 名称        | 微信号            | 简介                                                         | QRCode                                                       |
+| logo                                                         | 名称        | 微信号            | 简介                                                         | WeChat_QRCode                                                |
 | ------------------------------------------------------------ | ----------- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://sogrey.github.io/GithubPagePics/icons/1556424722090.png) | 谷歌开发者  | Google_Developers | Google 中国官方账号.汇集 Android; Flutter; Chrome OS; AI 等开发技术,以及 Google Play 平台出海相关信息. | ![img](https://img01.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556429785%26ver%3D1%26signature%3D8-dcdNv2VXBpoOZcLIEnUSzDqRIj3ddpxhewGlcQD-a4mtxRuaE*p2rm1ouTHpbecHVn8gGT5haQNcsL4rtm3wTQ2YtbeC*5qyEgM9Obl9U%3D&appid=200580) |
 | ![1556427859404](https://sogrey.github.io/GithubPagePics/icons/1556427859404.png) | codeKK      | codek2            | 专注于开源项目、职业成长、阿里及滴滴内推，由 Trinea 创建并维护。>>> 2019 年阿里、滴滴大量新的招聘名额开放，月 20k-60k，年 16 薪及以上，可关注我进行内推。 | ![img](https://img03.sogoucdn.com/v2/thumb?t=2&url=http%3A%2F%2Fmp.weixin.qq.com%2Frr%3Fsrc%3D3%26timestamp%3D1556427606%26ver%3D1%26signature%3DCoZItIQny-BKruR0iTgLC0Ec6rsT6KIoRMUGIZ2lseqRUBSwFDBIzP6zYXrKRqi8*LYloHK5zoPhEYRdEiR7Ivxgg7amOQasN6zEM3QNkO4%3D&appid=200580) |
@@ -22,4 +21,21 @@
 
 
 
+## :file_folder: 公众号文章
+
+### :books: Java
+
+### :books: Android
+
+### :books: Kotlin
+
+### :books: Flutter
+
+:black_nib: [Flutter 您需要知道的知识点 | FAQ・第三期](https://mp.weixin.qq.com/s?timestamp=1556431879&src=3&ver=1&signature=OFwncoqHrLLjAC-E0anb*MkmvS*SwJSlIEvpWQumi00HSQvQNWCQXnhTlh*YZJ00u3Mn-gxcCQb2CXmn41r7JWYTO*LmttnL8lbbzpz4hie-fj95w6JYV1pVyCfm154XqLFVwST2E-UCJ-Bzui7-gP4xXr24406xwtgk*TLQvAY=)  -- :mortar_board: 谷歌开发者
+
+:black_nib: [Flutter 您需要知道的知识点 | FAQ・第二期](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652048715&idx=1&sn=c8346d2603f311301d719d5374cc77ea&chksm=808cad0eb7fb241864557d2bc08cacc2efeb76a27d3a6b849d2df44ccbddfa13c3e1b1db0f85&scene=21#wechat_redirect)  -- :mortar_board: 谷歌开发者
+
+:black_nib: [Flutter 您需要知道的知识点 | FAQ・第一期](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652048481&idx=1&sn=3775bb6e61b9b4d7d7c5a48871a13807&chksm=808cac24b7fb2532858b94dc45f1ec4f8ec83f28f186e0cbc53a40034b3398feddea553e3054&scene=21#wechat_redirect)  -- :mortar_board: 谷歌开发者
+
+### :books: Python
 
