@@ -16,9 +16,9 @@ module.exports = {
   },
   themeConfig: {
     nav:[ // 导航栏配置
-	  {text: '征题', link: 'https://github.com/Sogrey/Android_QA/issues/131' },	
-	  {text: '公众号文章', link: '/advertorial/' },
+	    {text: '征题', link: 'https://github.com/Sogrey/Android_QA/issues/131' },	
       {text: '前端技术面试题', link: 'https://sogrey.github.io/Web-QA/' },
+	    {text: '优质博文/公众号文章', link: 'https://sogrey.github.io/blogs/' },	  
       {text: 'Github', link: 'https://github.com/Sogrey/Android_QA'}      
     ],
     sidebar: 'auto', // 侧边栏配置
