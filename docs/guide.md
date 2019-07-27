@@ -14,6 +14,11 @@ Android面试题目积累，题目来自互联网。
 
 :::
 
+## :file_folder:android 适配
+
+###  :question: **android 适配 - 版本适配** [#132](https://github.com/Sogrey/Android_QA/issues/132)
+###  :question: **Android 适配 - UI适配** [#132](https://github.com/Sogrey/Android_QA/issues/136)
+
 ## :file_folder:Java基础
 
 ###  :question:一个".java"源文件中是否可以包括多个类（不是内部类）？有什么限制？[#21](https://github.com/Sogrey/Android_QA/issues/21)
@@ -710,7 +715,6 @@ D.int show(int a,float c){return a;}
 > 在使用PC端的Windows Xp系统的时候，都会内置微软Windows Media Player这样一个浏览器程序，用户可以选择更多样的播放器，如Realplay或暴风影音等。但入手开始使用默认的程序同样可以应付多样的需要。在 Android平台中，由于其开放性，软件更多依赖第三方厂商，比如Android系统的SDK中就没有内置音乐 播放器，全部依赖第三方开发，缺少了产品的统一性。
 
 
-###  :question: **android 适配** [#132](https://github.com/Sogrey/Android_QA/issues/132)
 
 
 ## :file_folder: 数据库
