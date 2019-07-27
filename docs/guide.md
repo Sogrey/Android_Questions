@@ -17,7 +17,7 @@ Android面试题目积累，题目来自互联网。
 ## :file_folder:android 适配
 
 ###  :question: **android 适配 - 版本适配** [#132](https://github.com/Sogrey/Android_QA/issues/132)
-###  :question: **Android 适配 - UI适配** [#132](https://github.com/Sogrey/Android_QA/issues/136)
+###  :question: **Android 适配 - UI适配** [#136](https://github.com/Sogrey/Android_QA/issues/136)
 
 ## :file_folder:Java基础
 
