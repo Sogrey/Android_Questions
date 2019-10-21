@@ -14,6 +14,10 @@ Java/Android面试题目积累，题目来自互联网。
 
 :::
 
+[TOC]
+
+
+
 ## :file_folder:Android 适配
 
 ###  :question: **Android 适配 - 版本适配** [#132](https://github.com/Sogrey/Android_QA/issues/132)
@@ -90,7 +94,7 @@ System.out.println("n="+n+",m="+m);
 > 基本数据类型包括byte、int、char、long、float、double、boolean和short。
 > java.lang.String类是final类型的，因此不可以继承这个类、不能修改这个类。为了提高效率节省空间，我们应该用StringBuffer类
 
-###  :question: 数组a[n]，用java代码将数组元素顺序颠倒 [#33](https://github.com/Sogrey/Android_QA/issues/33)
+###  :question: 数组a[n],用java代码将数组元素顺序颠倒 [#33](https://github.com/Sogrey/Android_QA/issues/33)
 
 ###  :question: 从键盘分别输入年、月、日，判断这一天是当年的第几天。[#34](https://github.com/Sogrey/Android_QA/issues/34)
 
@@ -620,6 +624,8 @@ D.int show(int a,float c){return a;}
 >
 > 为了处理Message，Handler需要实现handleMessage()，当Message出现在队列中时，会调用handleMessage()方法。另外，Handler可在需要时更新UI。
 
+### :question:为什么在子线程无法更新 UI 操作？ [#138](https://github.com/Sogrey/Android_QA/issues/138)
+
 ### :question:Handler的原理 [#113](https://github.com/Sogrey/Android_QA/issues/113)
 
 > 它的作用就是实现线程之间的通信。
@@ -728,6 +734,9 @@ D.int show(int a,float c){return a;}
 > 在Android中不能直接打开res raw目录中的数据库文件，而需要在程序第一次启动时将该文件复制到手机内存或SD卡的某个目录中，然后再打开该数据库文件。
 >
 > 复制的基本方法是使用getResources().openRawResource方法获得res raw目录中资源的 InputStream对象，然后将该InputStream对象中的数据写入其他的目录中相应文件中。在Android SDK中可以使用SQLiteDatabase.openOrCreateDatabase方法来打开任意目录中的SQLite数据库文件。
+> 
+
+
 
 ## :file_folder: 异常
 
@@ -847,4 +856,3 @@ D.int show(int a,float c){return a;}
 **Advanced-Frontend/Daily-Interview-Question**
 <div class="github-widget" data-repo="Advanced-Frontend/Daily-Interview-Question"></div>
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
-
