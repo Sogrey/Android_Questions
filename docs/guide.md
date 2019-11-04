@@ -837,6 +837,17 @@ D.int show(int a,float c){return a;}
 
 ## :file_folder: Kotlin相关
 
+### :question: 什么是Kotlin？ [#140](<https://github.com/Sogrey/Android_QA/issues/140>)
+
+### :question: Kotlin支持哪种类型的编程？ [#141](<https://github.com/Sogrey/Android_QA/issues/141>)
+
+### :question: Kotlin有哪些不同类型的构造函数？ [#142](<https://github.com/Sogrey/Android_QA/issues/142>)
+
+### :question: Kotlin的结构表达有哪些？  [#143](<https://github.com/Sogrey/Android_QA/issues/143>)
+### :question: 请简述Val和Var之间的区别？   [#144](<https://github.com/Sogrey/Android_QA/issues/144>)
+
+
+
 ---
 
 ## :file_folder: 其他面经库
