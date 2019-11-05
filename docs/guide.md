@@ -801,7 +801,9 @@ D.int show(int a,float c){return a;}
 > Finally为确保一段代码不管发生什么"异常"都被执行一段代码。
 > 可以在一个成员函数调用的外面写一个try语句，在这个成员函数内部写另一个try语句保护其他代码。每当遇到一个try语句，"异常"的框架就放到堆栈上面，直到所有的try语句都完成。如果下一级的try语句没有对某种"异常"进行处理，堆栈就会展开，直到遇到有处理这种"异常"的try语句。
 
-### :question: ​导致内存泄露的原因有哪些？ [#111](<https://github.com/Sogrey/Android_QA/issues/111>)
+### :question: 导致内存泄露的原因有哪些？ [#111](<https://github.com/Sogrey/Android_QA/issues/111>)
+
+### :question: 造成内存泄露原因有什么？ [#146](<https://github.com/Sogrey/Android_QA/issues/146>)
 
 
 
