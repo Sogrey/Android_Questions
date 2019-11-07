@@ -445,6 +445,8 @@ D.int show(int a,float c){return a;}
 
 ###  :question: **简单介绍下android的5大布局** [#109](<https://github.com/Sogrey/Android_QA/issues/109>)
 
+###  :question: 怎么让viewpager不滑动？ [#147](<https://github.com/Sogrey/Android_QA/issues/147>)
+
 ###  :question: IntentService有何优点? [#16](https://github.com/Sogrey/Android_QA/issues/16)
 
 ###  :question: 如果后台的Activity由于某原因被系统回收了，如何在被系统回收之前保存当前状态？[#17](https://github.com/Sogrey/Android_QA/issues/17)
@@ -567,31 +569,24 @@ D.int show(int a,float c){return a;}
 **Mr-YangCheng/ForAndroidInterview**
 
 <div class="github-widget" data-repo="Mr-YangCheng/ForAndroidInterview"></div>
-
 **Shouheng88/Android-notes**
 
 <div class="github-widget" data-repo="Shouheng88/Android-notes"></div>
-
 **whatshappen/Android_Question**
 
 <div class="github-widget" data-repo="whatshappen/Android_Question"></div>
-
 **derekargueta/Android-Interview-Questions**
 
 <div class="github-widget" data-repo="derekargueta/Android-Interview-Questions"></div>
-
 **JackyAndroid/AndroidInterview-Q-A**
 
 <div class="github-widget" data-repo="JackyAndroid/AndroidInterview-Q-A"></div>
-
 **stormzhang/android-interview-questions-cn**
 
 <div class="github-widget" data-repo="stormzhang/android-interview-questions-cn"></div>
-
 **Advanced-Frontend/Daily-Interview-Question**
 
 <div class="github-widget" data-repo="Advanced-Frontend/Daily-Interview-Question"></div>
-
 **sucese/android-interview-guide**
 
 <div class="github-widget" data-repo="sucese/android-interview-guide"></div>
