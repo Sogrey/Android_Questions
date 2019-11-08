@@ -545,10 +545,6 @@ D.int show(int a,float c){return a;}
 
 ### :question: ​有数组a[n]，用java代码将数组元素顺序颠倒 [#130](<https://github.com/Sogrey/Android_QA/issues/130>)
 
-
-
-
-
 ## :file_folder: Kotlin相关
 
 ### :question: 什么是Kotlin？ [#140](<https://github.com/Sogrey/Android_QA/issues/140>)
