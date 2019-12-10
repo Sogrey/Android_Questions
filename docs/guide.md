@@ -22,6 +22,8 @@ Java/Android面试题目积累，题目来自互联网。
 
 ###  :question: **Android 适配 - 版本适配** [#132](https://github.com/Sogrey/Android_QA/issues/132)
 ###  :question: **Android 适配 - UI适配** [#136](https://github.com/Sogrey/Android_QA/issues/136)
+###  :question: **Android 性能优化** [##148](https://github.com/Sogrey/Android_QA/issues/148)
+
 
 ## :file_folder:Java基础
 
