@@ -519,6 +519,9 @@ D.int show(int a,float c){return a;}
 
 ### :question: 造成内存泄露原因有什么？ [#146](<https://github.com/Sogrey/Android_QA/issues/146>)
 
+## :file_folder: Android与JS交互
+
+### :question: Android与js是如何交互的？ [#149](<https://github.com/Sogrey/Android_QA/issues/149>)
 
 
 ## :file_folder: 算法与编程
