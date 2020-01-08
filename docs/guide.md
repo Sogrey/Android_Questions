@@ -591,4 +591,8 @@ D.int show(int a,float c){return a;}
 **sucese/android-interview-guide**
 
 <div class="github-widget" data-repo="sucese/android-interview-guide"></div>
+**feelschaotic/AndroidKnowledgeSystem** 你想要的最全 Android 进阶路线知识图谱+干货资料收集
+
+<div class="github-widget" data-repo="feelschaotic/AndroidKnowledgeSystem"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
