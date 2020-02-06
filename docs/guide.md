@@ -416,6 +416,7 @@ D.int show(int a,float c){return a;}
 ### ❓ heap和stack有什么区别。[#128](<https://github.com/Sogrey/Android_QA/issues/128>)
 
 ### ❓ 什么时候用assert。 [#129](<https://github.com/Sogrey/Android_QA/issues/129>)
+### ❓ 你在开发中碰到过 ClassNotFoundException 和 NoClassDefFoundError 吗？它们有什么区别？[#150](<https://github.com/Sogrey/Android_QA/issues/150>)
 
 ## :file_folder: Android
 
