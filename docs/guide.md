@@ -569,32 +569,33 @@ D.int show(int a,float c){return a;}
 
 ## :file_folder: 其他面经库
 
-**Mr-YangCheng/ForAndroidInterview**
+- [Java基础知识面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390612?utm_source=sogrey.top)
 
+- **Mr-YangCheng/ForAndroidInterview**
 <div class="github-widget" data-repo="Mr-YangCheng/ForAndroidInterview"></div>
-**Shouheng88/Android-notes**
 
+- **Shouheng88/Android-notes**
 <div class="github-widget" data-repo="Shouheng88/Android-notes"></div>
-**whatshappen/Android_Question**
 
+- **whatshappen/Android_Question**
 <div class="github-widget" data-repo="whatshappen/Android_Question"></div>
-**derekargueta/Android-Interview-Questions**
 
+- **derekargueta/Android-Interview-Questions**
 <div class="github-widget" data-repo="derekargueta/Android-Interview-Questions"></div>
-**JackyAndroid/AndroidInterview-Q-A**
 
+- **JackyAndroid/AndroidInterview-Q-A**
 <div class="github-widget" data-repo="JackyAndroid/AndroidInterview-Q-A"></div>
-**stormzhang/android-interview-questions-cn**
 
+- **stormzhang/android-interview-questions-cn**
 <div class="github-widget" data-repo="stormzhang/android-interview-questions-cn"></div>
-**Advanced-Frontend/Daily-Interview-Question**
 
+- **Advanced-Frontend/Daily-Interview-Question**
 <div class="github-widget" data-repo="Advanced-Frontend/Daily-Interview-Question"></div>
-**sucese/android-interview-guide**
 
+- **sucese/android-interview-guide**
 <div class="github-widget" data-repo="sucese/android-interview-guide"></div>
-**feelschaotic/AndroidKnowledgeSystem** 你想要的最全 Android 进阶路线知识图谱+干货资料收集
 
+- **feelschaotic/AndroidKnowledgeSystem** 你想要的最全 Android 进阶路线知识图谱+干货资料收集
 <div class="github-widget" data-repo="feelschaotic/AndroidKnowledgeSystem"></div>
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
