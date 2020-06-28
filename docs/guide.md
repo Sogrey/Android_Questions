@@ -416,7 +416,8 @@ D.int show(int a,float c){return a;}
 ### ❓ heap和stack有什么区别。[#128](<https://github.com/Sogrey/Android_QA/issues/128>)
 
 ### ❓ 什么时候用assert。 [#129](<https://github.com/Sogrey/Android_QA/issues/129>)
-
+### ❓ 如何控制某个方法允许并发访问线程的个数？ [#151](<https://github.com/Sogrey/Android_QA/issues/151>)
+### ❓ List 如何一边遍历，一边删除？ [#152](<https://github.com/Sogrey/Android_QA/issues/152>)
 
 ## :file_folder: Android
 
